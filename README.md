@@ -1,2 +1,5 @@
 # AI-workshopy
-Úložiště s odkazy na různé AI služby
+
+
+### Generování hudby
+- Suno AI https://www.suno.ai/
