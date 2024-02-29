@@ -1,4 +1,4 @@
-# AI-workshopy
+# AI rozcestník
 
 ## Modely textové generativní AI (včetně "klonů")
 - ChatGPT https://chat.openai.com/
