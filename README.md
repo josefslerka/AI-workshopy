@@ -6,6 +6,7 @@
 - Google Gemini https://bard.google.com/
 - Anthropic Claude https://claude.ai
 - Mistral AI https://chat.mistral.ai
+- Corel Cohere https://coral.cohere.com/
 - hosting různých modelů od Perplexity (Mixtral, LLama apod.) https://labs.perplexity.ai/
 - hub různých modelů Poe https://poe.com/
 
@@ -62,6 +63,6 @@ Série textů o možnostech zneužívání AI na Investigace.cz
 - https://www.investigace.cz/umela-inteligence-hlas-deepfake/
 
 ### Další zajímavé zdroje:
-https://twitter.com/emollick
-https://www.emergentmind.com/
-https://thealgorithmicbridge.substack.com/
+- https://twitter.com/emollick
+- https://www.emergentmind.com/
+- https://thealgorithmicbridge.substack.com/
