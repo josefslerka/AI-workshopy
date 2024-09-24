@@ -1,14 +1,37 @@
 # AI rozcestník
 
 ## Modely textové generativní AI (včetně "klonů")
+
+### Open AI
 - ChatGPT https://chat.openai.com/
+### Microsoft
 - Microsoft Copilot https://copilot.microsoft.com/
-- Google Gemini https://bard.google.com/
+- Microsoft Edge
+### Google
+- Google Gemini https://gemini.google.com/
+- Google NotebookLM https://notebooklm.google/
+- Google AI https://ai.google.dev/aistudio
+### Anthropic
 - Anthropic Claude https://claude.ai
+- Console https://console.anthropic.com/
+### Mistral
 - Mistral AI https://chat.mistral.ai
+### Cohere
 - Corel Cohere https://coral.cohere.com/
-- hosting různých modelů od Perplexity (Mixtral, LLama apod.) https://labs.perplexity.ai/
+### X
+- Grok https://x.ai/
+### LLama
+- Facebook https://www.meta.ai a. https://www.llama.com (pozor, dostupné jen USA)
+- Možnost si vyzkoušet https://labs.perplexity.ai/
+
+---
+## Leaderboardy
+- Chatbot Arena Leaderboard https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard
+---
+## Huby s modely
 - hub různých modelů Poe https://poe.com/
+
+---
 
 ## Hosting modelů
 - HuggingFace https://huggingface.co/
