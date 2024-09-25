@@ -23,34 +23,49 @@
 ### LLama
 - Facebook https://www.meta.ai a. https://www.llama.com (pozor, dostupné jen USA)
 - Možnost si vyzkoušet https://labs.perplexity.ai/
+### DeepSeek
+- DeepSeek https://www.deepseek.com/
+### Reka AI
+- Reka AI https://www.reka.ai
+### Alibaba
+- Qwen https://huggingface.co/Qwen a https://github.com/QwenLM/Qwen
+### Huby s modely
+- hub různých modelů Poe https://poe.com/
+- You.com https://you.com/
 
 ---
 ## Leaderboardy
 - Chatbot Arena Leaderboard https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard
----
-## Huby s modely
-- hub různých modelů Poe https://poe.com/
-
+- Open LLM Leaderboard https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard
 ---
 
 ## Hosting modelů
 - HuggingFace https://huggingface.co/
 - Replicate https://replicate.com/
 
-## Lokální spuštění modelů
+----
+## Lokální  modely
+
 - GPT4All https://gpt4all.io/index.html
 - LM Studio https://lmstudio.ai/
 - Ollama https://ollama.com/
 
+---
 ## Sémantické vyhledávače
+
+- You.com https://you.com/
 - Perplexity AI pro vyhledávání na netu https://www.perplexity.ai/
 - Elicit pro vyhledávání v akademických textech https://elicit.com/
 - Consensu pro vyhledávání v akademických textech:) https://consensus.app/
+
+---
 
 ## Další generativní inteligence
 
 ### Generování hlasu
 - Eleven Labs https://elevenlabs.io/
+
+---
 
 ### Generování hudby
 - Suno https://www.suno.ai/
@@ -65,6 +80,8 @@
 ### Generování obrázků
 - Stability AI https://stability.ai/
 - Stable Cascade https://huggingface.co/spaces/multimodalart/stable-cascade
+- MidJourney https://www.midjourney.com/explore?tab=top
+- plus OpenAI, Meta apod.
 
 ## Praktické nástroje
 - Počítadlo tokenů Open AI https://platform.openai.com/tokenizer
@@ -75,6 +92,7 @@
 ### Zajímavé studie
 - GPT-4 system cards: jak učili AI aby byla slušná https://cdn.openai.com/papers/gpt-4-system-card.pdf
 
+---
 ### Zajímavé články
 
 #### Zneužití AI
@@ -90,7 +108,11 @@ Série textů o možnostech zneužívání AI na Investigace.cz
 - https://www.emergentmind.com/
 - https://thealgorithmicbridge.substack.com/
 
-## 
+---
+---
+---
+
+# Zajímavé prompty
 Zdroje:
 Using AI to Implement Effective Teaching Strategies in Classrooms: Five Strategies, Including Prompts
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4391243
